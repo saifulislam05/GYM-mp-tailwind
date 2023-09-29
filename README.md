@@ -9,6 +9,7 @@ This project is a responsive landing page for "The November Room," a fitness and
 
 ## Table of Contents
 Click 👆 any section to navigate to code explanation part !
+- [UI](#ui)
 - [Nav Section](#nav-section)
 - [Hero Section](#hero-section)
 - [About Section](#about-section)
@@ -16,8 +17,17 @@ Click 👆 any section to navigate to code explanation part !
 - [Contact Section](#contact-section)
 - [Footer Section](#footer-section)
 - [Animate on Scroll (AOS)](#animate-on-scroll-aos)
+  
+## UI 
+### For Medium or above devices
+![large](https://github.com/saifulislam05/GYM-mp-tailwind/assets/73392705/740017fd-9174-4d65-8a9d-99e2b18eb026)
 
-## Nav Section
+### For small devices
+![small](https://github.com/saifulislam05/GYM-mp-tailwind/assets/73392705/91b2d616-a55c-4e17-a6e8-d28cffa86c6e)
+
+## Code Explanation
+
+### Nav Section
 
  #### `<nav class="top-0 absolute z-50 w-full flex flex-wrap items-center justify-between px-2 py-3 navbar-expand-lg">`
 
@@ -65,7 +75,7 @@ Click 👆 any section to navigate to code explanation part !
 - Social media icons are represented as list items within an unordered list.
   - Each icon is wrapped in a clickable link (`<a>`) and styled for both normal and hover states.
   - Icons include Facebook, Twitter, and LinkedIn, each represented by appropriate Font Awesome classes and text colors.
-## Hero Section
+### Hero Section
 
 #### `<div class="min-h-[95vh] bg-bgi bg-cover bg-no-repeat relative pt-16 pb-32 flex content-center items-center justify-center">`
 
@@ -107,7 +117,7 @@ Click 👆 any section to navigate to code explanation part !
   - Utilizes an SVG polygon shape for the decorative design.
 
 
-## About Section
+### About Section
 
 #### `<section class="about relative py-20 bg-black text-white">`
 
@@ -177,7 +187,7 @@ Click 👆 any section to navigate to code explanation part !
 
 This section effectively communicates information about the gym's facilities and features in a visually appealing and structured manner.
 
-## Trainers Section
+### Trainers Section
 
 #### `<section class="trainers pt-20 pb-48">`
 
@@ -229,7 +239,7 @@ This section effectively communicates information about the gym's facilities and
 
 Each trainer card showcases an image, the trainer's name, and their role. The section effectively introduces the trainers and their roles to the visitors.
 
-## Contact Section
+### Contact Section
 
 #### `<section class="contact pb-20 relative block bg-black text-white">`
 
@@ -299,7 +309,7 @@ Each trainer card showcases an image, the trainer's name, and their role. The se
 
 This section allows users to easily contact the website, providing a clear form layout for communication.
 
-## Footer Section
+### Footer Section
 
 #### `<footer class="relative bg-gray-300 pt-8 pb-6">`
 
