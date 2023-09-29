@@ -1,6 +1,10 @@
 # The November Room (GYM Major project Tailwind)
 
+## Hosted Link
+You can view the project live at [View Live Project](https://saifulislam05.github.io/GYM-mp-tailwind/)
+## Project Description
 This project is a responsive landing page for "The November Room," a fitness and training center. It utilizes HTML and the Tailwind CSS framework for styling.
+
 
 
 ## Table of Contents
